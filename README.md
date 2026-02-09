@@ -34,7 +34,7 @@
 ## 💼 Projects
 
 ### 🌐 Hostel Management System
-- Built using *HTML, CSS, JavaScript*  
+- Built using Tableau
 - Clean Dataset - Covid-19 in India 
 
 ### 📊 Dashboard Projects
