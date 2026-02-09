@@ -9,7 +9,7 @@
 ---
 
 ## 🌟 About Me
-- 🔭 Worked on *Covid 19 in India Tableau Dashboard*  
+- 🔭 Worked on *Student Management System*  
 - 📊 Creating beautiful *Power BI & Tableau Dashboards*  
 - 🐍 Strong in *Python & SQL*  
 - 🧠 Passionate about Data Visualization*  
@@ -33,9 +33,10 @@
 
 ## 💼 Projects
 
-### 🌐Covis-19 Tableau Dashboard
+### 🌐Covid-19 Tableau Dashboard
 - Built using Tableau
 - Clean Dataset - Covid-19 in India Tableau Dashboard
+- Project-Student Management System
 
 ### 📊 Dashboard Projects
 - *Power BI Dashboards* with slicers & KPI insights  
