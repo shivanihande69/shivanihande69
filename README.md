@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">✨ I'm Shivani Hande 👩‍💻✨</h1>
-<h3 align="center">🚀 Data Analyst | Python Developer | Dashboard Creator</h3>
+<h3 align="center">🚀 Data Analytics | Python Developer | Dashboard Creator</h3>
 
 ---
 
@@ -12,9 +12,9 @@
 - 🔭 Worked on *Covid 19 in India*  
 - 📊 Creating beautiful *Power BI & Tableau Dashboards*  
 - 🐍 Strong in *Python & SQL*  
-- 🧠 Passionate about *Machine Learning & Data Visualization*  
+- 🧠 Passionate about Data Visualization*  
 - 🌱 Learning *Python | SQL Joins | Analytics*  
-- 💬 Ask me about *SQL, Python, ML, Data Science*  
+- 💬 Ask me about *SQL, Python, Data Analytics
 
 ---
 
@@ -35,7 +35,7 @@
 
 ### 🌐 Hostel Management System
 - Built using *HTML, CSS, JavaScript*  
-- Clean UI + student management forms  
+- Clean Dataset - Covid-19 in India 
 
 ### 📊 Dashboard Projects
 - *Power BI Dashboards* with slicers & KPI insights  
